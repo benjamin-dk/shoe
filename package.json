@@ -8,9 +8,9 @@
         "example" : "example"
     },
     "dependencies" : {
-        "sockjs" : "0.3.7"
+        "sockjs" : "0.3.19",
+        "sockjs-client" : "1.1.4"
     },
-    "bundledDependencies" : [ "sockjs-client" ],
     "devDependencies" : {
         "through": "~2.3.4",
         "tape": "~1.0.4",
